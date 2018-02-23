@@ -1,0 +1,43 @@
+.container {
+
+width: 1980px;
+margin:0 auto;
+
+}
+body{
+	background-image: url(hwqw.jpg);
+-webkit-background-size: 100%;
+}
+header {font-family:Andale Mono, monospace;
+color: brown;
+border-color: yellow;
+font-size: 40px;
+border-style: dashed;
+border-width: 10px;
+}
+.container header h1 strong{
+	color:red;
+	font-size:100px;
+	font-family: cursive;
+
+	
+}
+.hobbie {float:left;
+ 
+	width:30%;
+	font-family:cursive;
+}
+
+.aside{ float:left;
+
+width:35%;
+font-family: Lucida Console, Courier, monospace;
+}
+.list{ 
+font-size: 45px;
+float:left;
+width:35%;
+	
+}
+	
+	
